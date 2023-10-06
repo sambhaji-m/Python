@@ -1,6 +1,7 @@
 
+# take no from user and convert in to a word
 
-user = (input("enter your mobile number: ")) #156 
+user = (input("enter your mobile number: ")) 
 Phone = {
     "1" : "one",
     "2" : "two",
