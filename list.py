@@ -12,3 +12,11 @@ print(largest_no)
 print(max(list))
 
     
+# remove duplicte from list 
+
+l = [1,3,5,6,7,8,5,23,3,5,6,1,5,9]
+duplicate = []
+for i in l:
+    if i not in duplicate:
+        duplicate.append(i)
+print(duplicate)
