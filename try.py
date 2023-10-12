@@ -15,3 +15,7 @@ for i in range(n):
     for k in range(i*2-1):
         print("*",end="")
     print()
+
+
+
+print("its done")
