@@ -11,3 +11,17 @@ elif buyer_credit == False:    # if bad credit
 
 print(f"Down payment: {price}") # print downpayment
 
+
+
+
+
+age = int(input("enter your age: "))
+
+if age >= 18:
+    print("yes")
+
+else:
+    print("no")
+
+
+
