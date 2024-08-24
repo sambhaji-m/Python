@@ -9,7 +9,7 @@ print(largest_no)
 
 # using max build in function
 
-print(max(list))
+print(max(list)) 
 
     
 # remove duplicte from list 
