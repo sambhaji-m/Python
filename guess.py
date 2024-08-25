@@ -1,4 +1,6 @@
-guess = 9
+from random import randint
+guess = randint(1,9)
+print(guess)
 count = 0
 limit = 3
 while count < limit:
